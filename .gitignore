@@ -1,0 +1,23 @@
+# secrets: never commit any env file except the example
+.env*
+!.env.example
+
+# dependencies and build output
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+
+# local model cache for the embedding pipeline
+.cache/
+
+# OS and editor noise
+.DS_Store
+.vscode/
+.idea/
+
+# local working notes, not part of the submission
+commits.md
+*.pdf
