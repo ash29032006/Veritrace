@@ -99,7 +99,7 @@ npm run typecheck
 | **Exposure** | dashboard over `v_outlet_exposure`; trace any batch forward or backward; **SQL vs Cypher** side by side, run live; the nine requirement-6 reports with their SQL |
 | **Complaints & audit** | vector match next to the keyword baseline, similar earlier complaints; the append-only audit log with filters |
 
-The live demo script is in [docs/demo.md](docs/demo.md).
+The live demo script is in [docs/demo.md](docs/demo.md). The submitted project report is [docs/Veritrace-Project-Report.pdf](docs/Veritrace-Project-Report.pdf) (Word version alongside).
 
 ## Repository layout
 
